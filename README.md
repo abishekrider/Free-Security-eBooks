@@ -3,7 +3,7 @@
 
 A curated list of free Security and Pentesting related E-Books available on the Interneihbdzesd
 ghvhgytcv
-If you want to contribute to this list (please do), send a pull request. All contributors will be recognized and appreciated.
+If you want to contribute to this list (please do), send a pull request. All contributors will be recognized and appreciatjn
 
 #### Disclaimer: The contributor(s) cannot be held responsible for any misuse of the data. This repository is just a collection of URLs to download eBooks for free. Download the eBooks at your own risks. 
 
